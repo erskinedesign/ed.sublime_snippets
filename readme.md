@@ -3,7 +3,8 @@ The **ED Sublime Text 2 snippets** are snippets for some of the common front-end
 
 ## Getting started
 1. [Download][download] the repo
-2. `CD` to `Library/Application Support/Sublime Text 2/Packages` and drop it in there.
+2. Unzip and rename folder to **ed.sublime_snippets**
+2. `CD` to `~/Library/Application Support/Sublime Text 2/Packages` and drop it in there.
 
 ## Snippets
 
