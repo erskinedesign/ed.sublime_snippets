@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[<p class="cta_button ${2:cta_alt}${3:cta_alt_small}"><a href="$4">${5:CTA button}</a></p>]]></content>
+    <tabTrigger>edcta</tabTrigger>
+    <description>ED cta - ED snippets</description>
+</snippet>
