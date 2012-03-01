@@ -75,6 +75,8 @@ The **CTA button** snippet also includes options for the **cta_alt** and **cta_a
 
 - **Shortcut**: edcta
 
+<hr />
+
 ## Credits
 The project is currently maintained by [the team at Erskine Design][erskine team].
 
