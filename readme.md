@@ -2,9 +2,21 @@
 The **ED Sublime Text 2 snippets** are snippets for some of the common front-end components used internally at [Erskine Design][erskine].
 
 ## Getting started
+
+### Installing with [ST2 Package control][package control]
+
+1. Choose **Add Repository** from the command pallete
+2. Enter the URL: `https://github.com/erskinedesign/ed.sublime_snippets`
+3. Choose **Install Package** from the command pallete
+4. Start typing `ed.sublime_snippets` until it shows up - press enter.
+
+Updating the package can be done can be done within Package Control as well.
+
+### Manual installation
+
 1. [Download][download] the repo
 2. Unzip and rename folder to **ed.sublime_snippets**
-2. `CD` to `~/Library/Application Support/Sublime Text 2/Packages` and drop it in there.
+3. `CD` to `~/Library/Application Support/Sublime Text 2/Packages` and drop it in there.
 
 ## Snippets
 
@@ -72,4 +84,5 @@ ED Sublime Text 2 snippets is &copy; 2012 [Erskine Design][erskine] and is licen
 [erskine]: http://erskinedesign.com/
 [erskine team]: https://twitter.com/erskinedesign/team/members
 [download]: https://github.com/erskinedesign/ed.sublime_snippets/zipball/master
+[package control]: http://wbond.net/sublime_packages/package_control
 [license]: http://creativecommons.org/licenses/by-nc-sa/3.0/
