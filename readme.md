@@ -66,7 +66,7 @@ The **CTA button** snippet also includes options for the **cta_alt** and **cta_a
 The project is currently maintained by [the team at Erskine Design][erskine team].
 
 ## License
-The Ultimate Package is Copyright &copy; 2012 [Erskine Design][erskine] and is licensed under the [Creative Commons 3.0][license] license.
+ED Sublime Text 2 snippets is &copy; 2012 [Erskine Design][erskine] and is licensed under the [Creative Commons 3.0][license] license.
 
 [erskine]: http://erskinedesign.com/
 [erskine team]: https://twitter.com/erskinedesign/team/members
