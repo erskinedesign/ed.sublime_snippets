@@ -10,7 +10,7 @@ The **ED Sublime Text 2 snippets** are snippets for some of the common front-end
 3. Choose **Install Package** from the command pallete
 4. Start typing `ed.sublime_snippets` until it shows up - press enter.
 
-Updating the package can be done can be done within Package Control as well.
+Updating the package can be done within Package Control as well.
 
 ### Manual installation
 
