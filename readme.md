@@ -32,7 +32,7 @@ The **Block** snippet is used for secondary blocks/widgets, usually in the sideb
 
         <!-- Cool stuff here -->
 
-    </ul> <!-- // .block.block_alt -->
+    </div> <!-- // .block -->
 
 The **Block** snippet also includes options for the **block_alt** class.
 
@@ -49,7 +49,7 @@ The **pagination** snippet creates the general markup we use for pagination.
         <li><a href="">4</a></li>
         <li><a href="">5</a></li>
         <li class="page_next"><a href="">Next</a></li>
-    </ul>
+    </ul> <!-- // .pagination -->
 
 - **Shortcut**: `edpaginate`
 
