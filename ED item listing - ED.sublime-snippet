@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<ul class="item_listing ${2:block_listing}${3:article_listing}">
+    <li class="item">
+        <div class="item_meta">
+            $4
+        </div> <!-- // .item_meta -->
+        <div class="item_content">
+
+        </div> <!-- // .item_content -->
+    </li> <!-- // .item -->
+</ul> <!-- // .$2$3 -->]]></content>
+    <tabTrigger>edil</tabTrigger>
+    <description>ED item listing - ED snippets</description>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[<ul class="horizontal pagination">
+    <li class="page_prev"><a href="">Previous</a></li>
+    <li><a href="">1</a></li>
+    <li class="cur"><a href="">2</a></li>
+    <li><a href="">3</a></li>
+    <li><a href="">4</a></li>
+    <li><a href="">5</a></li>
+    <li class="page_next"><a href="">Next</a></li>
+</ul>]]></content>
+    <tabTrigger>edpaginate</tabTrigger>
+    <description>ED paginate - ED snippets</description>
+</snippet>
