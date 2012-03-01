@@ -2,7 +2,7 @@
     <content><![CDATA[
 <div class="block ${1:block_alt}">
     $2
-</ul> <!-- // .block.$1 -->]]></content>
+</div> <!-- // .block.$1 -->]]></content>
     <tabTrigger>edblock</tabTrigger>
     <description>ED block - ED snippets</description>
 </snippet>

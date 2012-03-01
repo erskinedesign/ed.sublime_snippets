@@ -7,7 +7,7 @@
     <li><a href="">4</a></li>
     <li><a href="">5</a></li>
     <li class="page_next"><a href="">Next</a></li>
-</ul>]]></content>
+</ul> <!-- // .pagination -->]]></content>
     <tabTrigger>edpaginate</tabTrigger>
     <description>ED paginate - ED snippets</description>
 </snippet>
