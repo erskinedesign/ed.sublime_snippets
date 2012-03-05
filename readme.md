@@ -23,16 +23,18 @@ Updating the package can be done within Package Control as well.
 ### Item listing
 The **Item listing** snippet is used for ALL THE THINGS.
 
-    <ul class="item_listing">
-        <li class="item">
-            <div class="item_meta">
+```html
+<ul class="item_listing">
+    <li class="item">
+        <div class="item_meta">
 
-            </div> <!-- // .item_meta -->
-            <div class="item_content">
+        </div> <!-- // .item_meta -->
+        <div class="item_content">
 
-            </div> <!-- // .item_content -->
-        </li> <!-- // .item -->
-    </ul> <!-- // .item_listing -->
+        </div> <!-- // .item_content -->
+    </li> <!-- // .item -->
+</ul> <!-- // .item_listing -->
+```
 
 The **Item listing** snippet also includes options for the **block_listing** and **article_listing** classes.
 
@@ -41,11 +43,13 @@ The **Item listing** snippet also includes options for the **block_listing** and
 ### Block
 The **Block** snippet is used for secondary blocks/widgets, usually in the sidebar.
 
-    <div class="block">
+```html
+<div class="block">
 
-        <!-- Cool stuff here -->
+    <!-- Cool stuff here -->
 
-    </div> <!-- // .block -->
+</div> <!-- // .block -->
+```
 
 The **Block** snippet also includes options for the **block_alt** class.
 
@@ -54,15 +58,17 @@ The **Block** snippet also includes options for the **block_alt** class.
 ### Pagination
 The **pagination** snippet creates the general markup we use for pagination.
 
-    <ul class="horizontal pagination">
-        <li class="page_prev"><a href="">Previous</a></li>
-        <li><a href="">1</a></li>
-        <li class="cur"><a href="">2</a></li>
-        <li><a href="">3</a></li>
-        <li><a href="">4</a></li>
-        <li><a href="">5</a></li>
-        <li class="page_next"><a href="">Next</a></li>
-    </ul> <!-- // .pagination -->
+```html
+<ul class="horizontal pagination">
+    <li class="page_prev"><a href="">Previous</a></li>
+    <li><a href="">1</a></li>
+    <li class="cur"><a href="">2</a></li>
+    <li><a href="">3</a></li>
+    <li><a href="">4</a></li>
+    <li><a href="">5</a></li>
+    <li class="page_next"><a href="">Next</a></li>
+</ul> <!-- // .pagination -->
+```
 
 - **Shortcut**: `edpaginate`
 
