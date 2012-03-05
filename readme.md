@@ -75,7 +75,9 @@ The **pagination** snippet creates the general markup we use for pagination.
 ### CTA button
 The **CTA button** snippet creates the general markup we use for call-to-action buttons.
 
-    <p class="cta_button"><a href="">CTA button</a></p>
+```html
+<p class="cta_button"><a href="">CTA button</a></p>
+```
 
 The **CTA button** snippet also includes options for the **cta_alt** and **cta_alt_small** classes.
 
